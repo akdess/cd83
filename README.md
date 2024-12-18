@@ -1,3 +1,20 @@
-<b>Tumor expression of CD83 reduces glioma progression and is associated with reduced immunosuppression anaysis code<b>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>CD83 Glioma Analysis Code</title>
+</head>
+<body>
+    <h1><b>Tumor Expression of CD83 Reduces Glioma Progression and is Associated with Reduced Immunosuppression - Analysis Code</b></h1>
 
-This is the public repository accompanying the study "Tumor expression of CD83 reduces glioma progression and is associated with reduced immunosuppression", Malcolm*, Curry*, ..., Serin-Harmanci, Deneen, Rao;  Cancer Research Communnications, 2024
+    <p>This is the public repository accompanying the study:</p>
+
+    <p><i>"Tumor expression of CD83 reduces glioma progression and is associated with reduced immunosuppression"</i></p>
+
+    <p>Authors: Malcolm*, Curry*, ..., Serin-Harmanci, Deneen, Rao</p>
+
+    <p><b>Published in:</b> <i>Cancer Research Communications, 2024</i></p>
+
+</body>
+</html>
