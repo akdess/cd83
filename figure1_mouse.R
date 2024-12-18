@@ -37,5 +37,3 @@ df <- df[order(df$id),]
 
 p1 <- DimPlot( seuratObj, group.by="markers",  order=T, raster=F, cols=df$col)+ggtitle('CR86 WT')+ theme(legend.position="none") 
 
-p1 <- DimPlot( seuratObj, group.by="markers",  order=F, raster=F, cols=df$col)+ggtitle('CR86 WT')+ theme(legend.position="none") 
-
